@@ -1,1 +1,1 @@
-# e-mail_template
+A simple e-mail template for all e-mail clients.
